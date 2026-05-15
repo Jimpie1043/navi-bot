@@ -1,0 +1,11 @@
+Prefix: '$'
+
+Permissions-integer: '2815128261348544'
+
+Cogs:
+ - admin
+ - logging
+ - minecraft
+ - setup
+ - status
+ - testing
